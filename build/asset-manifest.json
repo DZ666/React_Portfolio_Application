@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e246414.chunk.css",
+    "main.js": "/static/js/main.19769706.chunk.js",
+    "main.js.map": "/static/js/main.19769706.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.5608b7b0.chunk.js": "/static/js/2.5608b7b0.chunk.js",
+    "static/js/2.5608b7b0.chunk.js.map": "/static/js/2.5608b7b0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f80c17a7f226b3ef19f33e250a3d8b0a.js": "/precache-manifest.f80c17a7f226b3ef19f33e250a3d8b0a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9e246414.chunk.css.map": "/static/css/main.9e246414.chunk.css.map",
+    "static/media/Business.png": "/static/media/Business.0f1d2806.png",
+    "static/media/Item1.png": "/static/media/Item1.aa044cc3.png",
+    "static/media/Item2.png": "/static/media/Item2.b8efb9dd.png",
+    "static/media/Item3.png": "/static/media/Item3.26d94969.png",
+    "static/media/Item4.png": "/static/media/Item4.d51ca9ec.png",
+    "static/media/OctoTrade.png": "/static/media/OctoTrade.c7cc1f04.png",
+    "static/media/OctoTrade1.png": "/static/media/OctoTrade1.fb38a493.png",
+    "static/media/app.css": "/static/media/bg.16c2a000.jpg",
+    "static/media/pic2.jpg": "/static/media/pic2.5599ca78.jpg",
+    "static/media/pic3.jpg": "/static/media/pic3.81f75be2.jpg",
+    "static/media/pic4.jpg": "/static/media/pic4.ec6ac9f8.jpg"
+  }
+}
